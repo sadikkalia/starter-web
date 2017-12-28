@@ -8,7 +8,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 test
-test2
+test2 test 3
 
 ##Deployment
 test test test
