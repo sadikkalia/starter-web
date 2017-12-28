@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 This is an introduction
-
+Editing readme file 
 ## Purpose 
 
 Sample website with plenty of files for demos
