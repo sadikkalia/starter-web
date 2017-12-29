@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 This is an introduction
 Editing readme file 
 
-editing for lwearnming p
+test purpose 
 ## Purpose 
 
 Sample website with plenty of files for demos
